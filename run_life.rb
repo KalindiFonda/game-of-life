@@ -1,4 +1,4 @@
-require './lib/game_of_life_classes'
+require_relative 'game_of_life_classes'
 
 size = 50
 density = 15

@@ -22,8 +22,7 @@ And it makes pretty life
 
 
 ### Now with lines and dots
-
-
+.  .  .
 
 ## Rules:
 

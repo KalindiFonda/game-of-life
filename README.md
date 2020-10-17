@@ -20,6 +20,11 @@ And it makes pretty life
 
 ------
 
+
+### Now with lines and dots
+
+
+
 ## Rules:
 
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.

@@ -1,6 +1,5 @@
-
 class Life
-  def initialize(size=30, density=10, game_len=100, sym_dead=' ', sym_life='x', life=[])
+  def initialize(size=30, density=10, game_len=100, sym_dead=' ', sym_life='*', life=[])
     @density = density
     @game_len = game_len
     @d = sym_dead
@@ -30,7 +29,7 @@ class Life
       print_life
       @life = evolve
       @game_len -= 1
-      sleep(0.1)
+      sleep(0.2)
     end
   end
 
@@ -84,7 +83,3 @@ class Life
   end
 
 end
-
-
-
-
